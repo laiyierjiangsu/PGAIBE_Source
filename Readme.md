@@ -1,3 +1,6 @@
+2017-10-7 
+	The download address of this code is http://www.jblearning.com/catalog/9781556220784¡£
+
 March 2008
 
 ----------
@@ -44,7 +47,7 @@ Unfortunately Luabind does not currently support Lua5.1. However the latest SVN 
 MS Windows Vista Problems
 -------------------------
 
-Someone wrote to me to mention they were having problems compiling the source under Vista. I dont use Vista so I couldn't help but they eventually solved the problem by changing the character set in program properties to “Not Set” and commenting out the lines
+Someone wrote to me to mention they were having problems compiling the source under Vista. I dont use Vista so I couldn't help but they eventually solved the problem by changing the character set in program properties to “Not Set?and commenting out the lines
 
 _DEBUG_ERROR("list iterators incompatible");
 _SCL_SECURE_TRAITS_INVALID_ARGUMENT;
